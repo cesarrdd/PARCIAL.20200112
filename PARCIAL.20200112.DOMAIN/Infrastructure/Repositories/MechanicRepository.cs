@@ -1,4 +1,5 @@
-﻿using PARCIAL._20200112.DOMAIN.Infrastructure.Data;
+﻿using PARCIAL._20200112.DOMAIN.Core.Entities;
+using PARCIAL._20200112.DOMAIN.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

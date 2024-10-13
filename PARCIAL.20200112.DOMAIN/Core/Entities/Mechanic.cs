@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PARCIAL._20200112.DOMAIN.Infrastructure.Data;
+namespace PARCIAL._20200112.DOMAIN.Core.Entities;
 
 public partial class Mechanic
 {

@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
+using PARCIAL._20200112.DOMAIN.Core.Entities;
 using PARCIAL._20200112.DOMAIN.Core.Interfaces;
-using PARCIAL._20200112.DOMAIN.Infrastructure.Data;
+
 
 namespace PARCIAL._20200112.API.Controllers
 {
